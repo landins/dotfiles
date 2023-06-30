@@ -1,0 +1,14 @@
+[user]
+	name = Landin
+[color]
+	ui = true
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
+[alias]
+	p = push origin
+	f = pull origin
+	s = status
+	o = log --oneline
+	c = commit -m
